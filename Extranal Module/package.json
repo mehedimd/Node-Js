@@ -1,0 +1,19 @@
+{
+  "name": "extranal-module",
+  "version": "1.0.0",
+  "description": "first npm extranal module installations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "index.js",
+    "demoNpm"
+  ],
+  "author": "Md. Mehedi Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "random-animal-name": "^0.1.1"
+  }
+}
